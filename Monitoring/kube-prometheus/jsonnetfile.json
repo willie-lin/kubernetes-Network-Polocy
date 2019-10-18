@@ -1,0 +1,14 @@
+{
+    "dependencies": [
+        {
+            "name": "kube-prometheus",
+            "source": {
+                "git": {
+                    "remote": ".",
+                    "subdir": "jsonnet/kube-prometheus"
+                }
+            },
+            "version": "."
+        }
+    ]
+}

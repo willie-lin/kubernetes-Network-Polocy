@@ -14,7 +14,7 @@ require (
 	github.com/go-kit/kit v0.9.0
 	github.com/golang/gddo v0.0.0-20190312205958-5a2505f3dbf0
 	github.com/gorilla/mux v1.7.1
-	github.com/gorilla/websocket v1.4.0
+	github.com/gorilla/websocket v1.4.1
 	github.com/imdario/mergo v0.3.7
 	github.com/instrumenta/kubeval v0.0.0-20190804145309-805845b47dfc
 	github.com/justinbarrick/go-k8s-portforward v1.0.4-0.20190722134107-d79fe1b9d79d
